@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PacManView">
+        <attr name="pacmanColor" format="color"/>
+        <attr name="ghostColor" format="color"/>
+        <attr name="isEating" format="boolean"/>
+    </declare-styleable>
+</resources>
